@@ -1,0 +1,12 @@
+body{
+    background-image: url('testbkg.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+h1{
+    font-family: sans-serif;
+    position: relative;
+
+}
